@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\VSCode"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "C:\\Users\\WIN\\Downloads\\AA13-rpt06"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aa03"
+	}
+}
